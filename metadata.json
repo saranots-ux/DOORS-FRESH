@@ -1,0 +1,6 @@
+{
+  "name": "Wishore Agri-Tech Customer App UI",
+  "description": "Comprehensive customer mobile app UI/UX design board (4:3) and interactive prototype for Wishore Agri-Tech farm-to-table platform, featuring product reviews, order tracking, and push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
